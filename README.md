@@ -9,3 +9,5 @@ This is a vaadin6 sampler
 How to run 
 
 > mvn clean install jetty:run-war
+
+> [http://localhost:8080/sampler/](http://localhost:8080/sampler/)
